@@ -20,7 +20,17 @@ An interactive and responsive Tic-Tac-Toe game developed as part of the Prodigy 
 - HTML5
 - CSS3
 - JavaScript
+- 
+## Screenshots
 
+### Home Page
+![Home Page](home.png)
+
+### Computer Mode
+![Computer Mode](computer_mode.png)
+
+### Winning Result
+![Winning Result](winning_result.png)
 ## Project Structure
 
 - index.html - Game structure
